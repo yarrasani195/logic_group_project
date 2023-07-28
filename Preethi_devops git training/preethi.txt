@@ -1,0 +1,11 @@
+preethi
+anil
+siva
+gayatri
+siva1
+kesava
+{
+
+print("all students data")
+
+}
